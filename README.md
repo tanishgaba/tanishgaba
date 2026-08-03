@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=125&section=header&text=Tanish%20Gaba&fontSize=50&animation=twinkling&fontColor=0d1117&desc=CS%20Graduate%20%7C%20Aspiring%20Data%20Analyst%20%2F%20Data%20Scientist%20%2F%20Data%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=125&section=header&text=Tanish%20Gaba&fontSize=50&animation=twinkling&fontColor=0d1117/>
 
 <a href="https://github.com/tanishgaba">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Data+Scientist+in+the+Making;Data+Engineering+Enthusiast;Python+Developer;SQL+%7C+HTML+%7C+CSS+%7C+JavaScript" alt="Typing SVG" />
